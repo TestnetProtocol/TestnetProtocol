@@ -5,49 +5,50 @@
 
 ---
 
-### 👋 Welcome to **TestnetProtocol**
-
-> 🚀 A collective dedicated to exploring the future of decentralized technology through **testnets**, **crypto research**, and **Web3 analysis**.
-
----
-
-### 🌌 What We Do
-
-- 🧪 Participate in early-stage **testnets** and ecosystems  
-- 📊 Analyze data and trends in the Web3 world  
-- 📚 Publish guides, tools, and walkthroughs  
-- 🔗 Help build a decentralized, transparent future
-
----
-
-### ⚙️ Technologies & Tools We Love
-
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Solidity](https://img.shields.io/badge/Solidity-black?style=for-the-badge&logo=solidity)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-
----
-
-### 📊 GitHub Stats
-
+<!-- Hacker Terminal Typing Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TestnetProtocol&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TestnetProtocol&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=booting+TestnetProtocol...;connecting+to+RPC+nodes...;initializing+testnet+systems...;access+granted_+welcome+operator" alt="typing animation" />
 </p>
 
 ---
 
-### 🌍 Join the Journey
+<!-- ASCII LOGO BANNER -->
+```bash
+████████╗███████╗███████╗███████╗███╗   ██╗████████╗    ██████╗ ██████╗  ██████╗  ██████╗████████╗ ██████╗  ██████╗██╗     
+╚══██╔══╝██╔════╝██╔════╝██╔════╝████╗  ██║╚══██╔══╝   ██╔════╝ ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║     
+   ██║   █████╗  ███████╗█████╗  ██╔██╗ ██║   ██║█████╗██║  ███╗██████╔╝██║   ██║██║        ██║   ██║   ██║██║     ██║     
+   ██║   ██╔══╝  ╚════██║██╔══╝  ██║╚██╗██║   ██║╚════╝██║   ██║██╔═══╝ ██║   ██║██║        ██║   ██║   ██║██║     ██║     
+   ██║   ███████╗███████║███████╗██║ ╚████║   ██║       ██████╔╝██║     ╚██████╔╝╚██████╗   ██║   ╚██████╔╝╚██████╗███████╗
+   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═════╝ ╚═╝      ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝  ╚═════╝╚══════╝
+🧠 Welcome to the TestnetProtocol Lab
+This is where we break testnets, monitor chains, and dig up Web3 alpha before anyone else.
+Blockchain doesn’t sleep — and neither do we.
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 📝 Medium: [@yourblog](https://medium.com/@yourblog)  
-- 🤝 Discord: [Join Us](https://discord.gg/yourinvite)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TestnetProtocol&label=Profile+Views&color=00FFD1&style=flat-square" alt="views" />
-</p>
+🧪 Active Experiments
+txt
+Copy
+Edit
+[1] Validator Ops – Celestia / Avail / Dymension
+[2] MEV tests & RPC fuzzing – Ethereum L2s
+[3] Tokenless protocol analysis – Real yield or rug?
+[4] Node automation tools – Bash / Python scripting
+🧰 Operator Toolchain
+txt
+Copy
+Edit
+┌──────────────────────────────┐
+│  Rust 🦀   Go 🌀   Bash 🐚     │
+│  Solidity ⚙️   Python 🐍       │
+│  Docker 🐳   Linux 🐧         │
+│  VSCode 👨‍💻   RPC Tools 📡     │
+└──────────────────────────────┘
+🛰️ Signals & Feeds
+txt
+Copy
+Edit
+📡 Twitter  :  https://twitter.com/yourhandle
+🧾 Blog     :  https://medium.com/@yourblog
+🔐 Discord  :  https://discord.gg/yourinvite
+📊 Recon: GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TestnetProtocol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=TestnetProtocol&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TestnetProtocol&label=access+logs&color=00ff00&style=flat-square" /> </p> ```

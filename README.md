@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" width="100%"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=250&lines=Welcome+to+TestnetProtocol;Exploring+Crypto+%26+Web3;Researching+Tomorrow's+Tech+Today" alt="Typing SVG" /> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/726b586734064d91ba689f63041b3f87a7c1a36d/Assets/Professional%20Handshake.gif" width="75px" height="75">
-  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=250&lines=booting+TestnetProtocol...;connecting+to+RPC+nodes...;initializing+testnet+systems...;access+granted_+welcome+operator" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=300&lines=Welcome+to+TestnetProtocol;Exploring+Crypto+%26+Web3;Researching+Tomorrow's+Tech+Today" alt="Typing SVG" /> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/726b586734064d91ba689f63041b3f87a7c1a36d/Assets/Professional%20Handshake.gif" width="75px" height="75">
+  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=300&lines=booting+TestnetProtocol...;connecting+to+RPC+nodes...;initializing+testnet+systems...;access+granted_+welcome+operator" alt="typing animation" />
 </p>
 <img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
 

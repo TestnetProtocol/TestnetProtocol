@@ -161,9 +161,7 @@
 1. 🛰️ **Validator Ops** — Celestia / Avail / Dymension  
 2. ⚡ **MEV Tests & RPC Fuzzing** — Ethereum L2s  
 3. 🧠 **Tokenless Protocol Analysis** — Real Yield or Rug?  
-4. 🤖 **Node Automation Tools** — Bash / Python Scripting
-### 📊 Recon: 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=TestnetProtocol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=TestnetProtocol&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" /> </p>
+4. 🤖 **Node Automation Tools** — Bash / Python Scripting <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=TestnetProtocol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=TestnetProtocol&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" /> </p>
 <div style="background-color:#000000; padding:5px; border-radius:2.5px; display:inline-block;">
 <img src="https://ssr-contributions-svg.vercel.app/_/TestnetProtocol?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=500&theme=matrix&widget_size=large&colors=00FF00,39FF14,0AFF0A,33FF33,66FF66,99FF99,00CC00,228B22&dark=true">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TestnetProtocol&label=access+logs&color=00ff00&style=flat-square" /> </p> 

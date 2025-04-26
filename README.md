@@ -1,54 +1,170 @@
-<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=header" width="100%"/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFAD&center=true&vCenter=true&width=800&lines=Welcome+to+TestnetProtocol;Exploring+Crypto+%26+Web3;Researching+Tomorrow's+Tech+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=435&lines=Welcome+to+TestnetProtocol;Exploring+Crypto+%26+Web3;Researching+Tomorrow's+Tech+Today" alt="Typing SVG" /> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/726b586734064d91ba689f63041b3f87a7c1a36d/Assets/Professional%20Handshake.gif" width="75px" height="75">
+  <img src="https://readme-typing-svg.herokuapp.com?font=matrix&size=16&pause=1000&color=0AF749&background=0E0547&center=true&vCenter=true&width=435&lines=booting+TestnetProtocol...;connecting+to+RPC+nodes...;initializing+testnet+systems...;access+granted_+welcome+operator" alt="typing animation" />
 </p>
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+### 🧠 Welcome to the TestnetProtocol <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/7425c4548ea3e506d3c671fb5098d3cd6d7ca43a/Assets/Roboto.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75"> <img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/3892af4a12972ede602e19b35c01fa209d8bfd9f/Assets/Man%20Technologist.png" width="75px" height="75">
+### This is where we break testnets, monitor chains, and dig up Web3 alpha before anyone else. 
+### Blockchain doesn’t sleep — and neither do we.
+<img src="https://github.com/Mayur-Pagote/README_Design_Kit/blob/45123f007c79aa8d0c8d9b11b3ff72d6bf4744c7/Assets/Star%20Light%20Line.gif" width="100%">
+
+### 🧰 Tech & Tools We Use  <img height="180em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+![Bitcoin](https://img.shields.io/badge/Bitcoin-3C3C3D?style=for-the-badge&logo=bitcoin) 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum) 
+![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance)
+![Solana](https://img.shields.io/badge/Solana-03A9F4?style=for-the-badge&logo=solana)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot)
+![Cardano](https://img.shields.io/badge/Cardano-3D3C59?style=for-the-badge&logo=cardano)
+![Avalanche](https://img.shields.io/badge/Avalanche-ED5A42?style=for-the-badge&logo=avalanche)
+![Chainlink](https://img.shields.io/badge/Chainlink-3756C5?style=for-the-badge&logo=chainlink)
+![Tezos](https://img.shields.io/badge/Tezos-2C6BB0?style=for-the-badge&logo=tezos)
+![Litecoin](https://img.shields.io/badge/Litecoin-4EAA25?style=for-the-badge&logo=litecoin)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon)
+![Cosmos](https://img.shields.io/badge/Cosmos-2C2C2C?style=for-the-badge&logo=cosmos)
+![Tron](https://img.shields.io/badge/Tron-000000?style=for-the-badge&logo=tron)
+![Dogecoin](https://img.shields.io/badge/Dogecoin-B0B0B0?style=for-the-badge&logo=dogecoin)
+![Zcash](https://img.shields.io/badge/Zcash-22B23F?style=for-the-badge&logo=zcash)
+![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero)
+![EOS](https://img.shields.io/badge/EOS-000000?style=for-the-badge&logo=eos)
+![Binance Coin](https://img.shields.io/badge/Binance_Coin-F0B90B?style=for-the-badge&logo=binance)
+![Terra](https://img.shields.io/badge/Terra-1B5A3A?style=for-the-badge&logo=terra)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand)
+![Stellar](https://img.shields.io/badge/Stellar-1F3C5B?style=for-the-badge&logo=stellar)
+![Litecoin](https://img.shields.io/badge/Litecoin-4EAA25?style=for-the-badge&logo=litecoin)
+![Avalanche](https://img.shields.io/badge/Avalanche-ED5A42?style=for-the-badge&logo=avalanche)
+![Shiba Inu](https://img.shields.io/badge/Shiba_Inu-F04F59?style=for-the-badge&logo=shiba)
+![VeChain](https://img.shields.io/badge/VeChain-8C8C8C?style=for-the-badge&logo=vechain)
+![Fantom](https://img.shields.io/badge/Fantom-181818?style=for-the-badge&logo=fantom)
+![Harmony](https://img.shields.io/badge/Harmony-1A2E71?style=for-the-badge&logo=harmony)
+![IOTA](https://img.shields.io/badge/IOTA-0098A6?style=for-the-badge&logo=iota)
+![Kusama](https://img.shields.io/badge/Kusama-000000?style=for-the-badge&logo=kusama)
+![Elrond](https://img.shields.io/badge/Elrond-0E9F72?style=for-the-badge&logo=elrond)
+![Near Protocol](https://img.shields.io/badge/Near_Protocol-00B8F4?style=for-the-badge&logo=nearprotocol)
+![Waves](https://img.shields.io/badge/Waves-000000?style=for-the-badge&logo=waves)
+![Celo](https://img.shields.io/badge/Celo-15B2B2?style=for-the-badge&logo=celo)
+![Filecoin](https://img.shields.io/badge/Filecoin-0E66C4?style=for-the-badge&logo=filecoin)
+![Hedera](https://img.shields.io/badge/Hedera-4D9F6B?style=for-the-badge&logo=hedera)
+![Elrond](https://img.shields.io/badge/Elrond-0E9F72?style=for-the-badge&logo=elrond)
+![Flow](https://img.shields.io/badge/Flow-00C8F5?style=for-the-badge&logo=flow)
+![SushiSwap](https://img.shields.io/badge/SushiSwap-6F00FF?style=for-the-badge&logo=sushiswap)
+![Kadena](https://img.shields.io/badge/Kadena-00A9E0?style=for-the-badge&logo=kadena)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A1F1?style=for-the-badge&logo=arbitrum)
+![Optimism](https://img.shields.io/badge/Optimism-19C9D2?style=for-the-badge&logo=optimism)
+![Gnosis](https://img.shields.io/badge/Gnosis-32A0DB?style=for-the-badge&logo=gnosis)
+![Kava](https://img.shields.io/badge/Kava-2F7FE5?style=for-the-badge&logo=kava)
+![Stacks](https://img.shields.io/badge/Stacks-009BD7?style=for-the-badge&logo=stacks)
+![FLOKI](https://img.shields.io/badge/FLOKI-FF4C00?style=for-the-badge&logo=floki)
+![Terra Classic](https://img.shields.io/badge/Terra_Classic-139A72?style=for-the-badge&logo=terra)
+![Zilliqa](https://img.shields.io/badge/Zilliqa-007BFF?style=for-the-badge&logo=zilliqa)
+![Bitcoin Cash](https://img.shields.io/badge/Bitcoin_Cash-8DC351?style=for-the-badge&logo=bitcoincash)
+![Wanchain](https://img.shields.io/badge/Wanchain-0084B5?style=for-the-badge&logo=wanchain)
+![Tether](https://img.shields.io/badge/Tether-26A17B?style=for-the-badge&logo=tether)
+![Bitcoin Cash](https://img.shields.io/badge/Bitcoin_Cash-8DC351?style=for-the-badge&logo=bitcoincash)
+![Litecoin](https://img.shields.io/badge/Litecoin-4EAA25?style=for-the-badge&logo=litecoin)
+![Dogecoin](https://img.shields.io/badge/Dogecoin-B0B0B0?style=for-the-badge&logo=dogecoin)
+![Zcash](https://img.shields.io/badge/Zcash-22B23F?style=for-the-badge&logo=zcash)
+![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero)
+![EOS](https://img.shields.io/badge/EOS-000000?style=for-the-badge&logo=eos)
+![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=dash)
+![Ethereum Classic](https://img.shields.io/badge/Ethereum_Classic-3C3C3D?style=for-the-badge&logo=ethereum)
+![Bitcoin SV](https://img.shields.io/badge/Bitcoin_SV-8DC351?style=for-the-badge&logo=bitcoinsv)
+![Tezos](https://img.shields.io/badge/Tezos-2C6BB0?style=for-the-badge&logo=tezos)
+![Stellar](https://img.shields.io/badge/Stellar-1F3C5B?style=for-the-badge&logo=stellar)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand)
+![VeChain](https://img.shields.io/badge/VeChain-8C8C8C?style=for-the-badge&logo=vechain)
+![Fantom](https://img.shields.io/badge/Fantom-181818?style=for-the-badge&logo=fantom)
+![Harmony](https://img.shields.io/badge/Harmony-1A2E71?style=for-the-badge&logo=harmony)
+![IOTA](https://img.shields.io/badge/IOTA-0098A6?style=for-the-badge&logo=iota)
+![Kusama](https://img.shields.io/badge/Kusama-000000?style=for-the-badge&logo=kusama)
+![Elrond](https://img.shields.io/badge/Elrond-0E9F72?style=for-the-badge&logo=elrond)
+![Near Protocol](https://img.shields.io/badge/Near_Protocol-00B8F4?style=for-the-badge&logo=nearprotocol)
+![Waves](https://img.shields.io/badge/Waves-000000?style=for-the-badge&logo=waves)
+![Celo](https://img.shields.io/badge/Celo-15B2B2?style=for-the-badge&logo=celo)
+![Filecoin](https://img.shields.io/badge/Filecoin-0E66C4?style=for-the-badge&logo=filecoin)
+![Hedera](https://img.shields.io/badge/Hedera-4D9F6B?style=for-the-badge&logo=hedera)
+![Flow](https://img.shields.io/badge/Flow-00C8F5?style=for-the-badge&logo=flow)
+![Kadena](https://img.shields.io/badge/Kadena-00A9E0?style=for-the-badge&logo=kadena)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A1F1?style=for-the-badge&logo=arbitrum)
+![Optimism](https://img.shields.io/badge/Optimism-19C9D2?style=for-the-badge&logo=optimism)
+![Gnosis](https://img.shields.io/badge/Gnosis-32A0DB?style=for-the-badge&logo=gnosis)
+![Kava](https://img.shields.io/badge/Kava-2F7FE5?style=for-the-badge&logo=kava)
+![Stacks](https://img.shields.io/badge/Stacks-009BD7?style=for-the-badge&logo=stacks)
+![FLOKI](https://img.shields.io/badge/FLOKI-FF4C00?style=for-the-badge&logo=floki)
+![Zilliqa](https://img.shields.io/badge/Zilliqa-007BFF?style=for-the-badge&logo=zilliqa)
+![Wanchain](https://img.shields.io/badge/Wanchain-0084B5?style=for-the-badge&logo=wanchain)
+![Tether](https://img.shields.io/badge/Tether-26A17B?style=for-the-badge&logo=tether)
+![SushiSwap](https://img.shields.io/badge/SushiSwap-6F00FF?style=for-the-badge&logo=sushiswap)
+![Kroma](https://img.shields.io/badge/Kroma-FF6F61?style=for-the-badge&logo=kroma)
+![Injective](https://img.shields.io/badge/Injective-000000?style=for-the-badge&logo=injective)
+![Shardeum](https://img.shields.io/badge/Shardeum-000000?style=for-the-badge&logo=shardeum)
+![XPLA](https://img.shields.io/badge/XPLA-000000?style=for-the-badge&logo=xpla)
+![XDC Network](https://img.shields.io/badge/XDC_Network-000000?style=for-the-badge&logo=xdc)
+![5ire](https://img.shields.io/badge/5ire-000000?style=for-the-badge&logo=5ire)
+![Avalanche Fuji](https://img.shields.io/badge/Avalanche_Fuji-000000?style=for-the-badge&logo=avalanche)
+![Oasis Network](https://img.shields.io/badge/Oasis_Network-000000?style=for-the-badge&logo=oasisnetwork)
+![Theta Network](https://img.shields.io/badge/Theta_Network-000000?style=for-the-badge&logo=thetanetwork)
+![Celo Dollar](https://img.shields.io/badge/Celo_Dollar-000000?style=for-the-badge&logo=celodollar)
+![Kusama Network](https://img.shields.io/badge/Kusama_Network-000000?style=for-the-badge&logo=kusamanetwork)
+![Chainlink](https://img.shields.io/badge/Chainlink-3756C5?style=for-the-badge&logo=chainlink)
+![Tezos](https://img.shields.io/badge/Tezos-2C6BB0?style=for-the-badge&logo=tezos)
+![Litecoin](https://img.shields.io/badge/Litecoin-4EAA25?style=for-the-badge&logo=litecoin)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon)
+![Cosmos](https://img.shields.io/badge/Cosmos-2C2C2C?style=for-the-badge&logo=cosmos)
+![Tron](https://img.shields.io/badge/Tron-000000?style=for-the-badge&logo=tron)
+![Dogecoin](https://img.shields.io/badge/Dogecoin-B0B0B0?style=for-the-badge&logo=dogecoin)
+![Zcash](https://img.shields.io/badge/Zcash-22B23F?style=for-the-badge&logo=zcash)
+![Monero](https://img.shields.io/badge/Monero-FF6600?style=for-the-badge&logo=monero)
+![EOS](https://img.shields.io/badge/EOS-000000?style=for-the-badge&logo=eos)
+![Binance Coin](https://img.shields.io/badge/Binance_Coin-F0B90B?style=for-the-badge&logo=binance)
+![Terra](https://img.shields.io/badge/Terra-1B5A3A?style=for-the-badge&logo=terra)
+![Algorand](https://img.shields.io/badge/Algorand-000000?style=for-the-badge&logo=algorand)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby)
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=microsoftwindows)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora)
 
 ---
 
-<!-- Hacker Terminal Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=850&lines=booting+TestnetProtocol...;connecting+to+RPC+nodes...;initializing+testnet+systems...;access+granted_+welcome+operator" alt="typing animation" />
-</p>
-
----
-
-<!-- ASCII LOGO BANNER -->
-```bash
-████████╗███████╗███████╗███████╗███╗   ██╗████████╗    ██████╗ ██████╗  ██████╗  ██████╗████████╗ ██████╗  ██████╗██╗     
-╚══██╔══╝██╔════╝██╔════╝██╔════╝████╗  ██║╚══██╔══╝   ██╔════╝ ██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔═══██╗██╔════╝██║     
-   ██║   █████╗  ███████╗█████╗  ██╔██╗ ██║   ██║█████╗██║  ███╗██████╔╝██║   ██║██║        ██║   ██║   ██║██║     ██║     
-   ██║   ██╔══╝  ╚════██║██╔══╝  ██║╚██╗██║   ██║╚════╝██║   ██║██╔═══╝ ██║   ██║██║        ██║   ██║   ██║██║     ██║     
-   ██║   ███████╗███████║███████╗██║ ╚████║   ██║       ██████╔╝██║     ╚██████╔╝╚██████╗   ██║   ╚██████╔╝╚██████╗███████╗
-   ╚═╝   ╚══════╝╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═════╝ ╚═╝      ╚═════╝  ╚═════╝   ╚═╝    ╚═════╝  ╚═════╝╚══════╝
-🧠 Welcome to the TestnetProtocol Lab
-This is where we break testnets, monitor chains, and dig up Web3 alpha before anyone else.
-Blockchain doesn’t sleep — and neither do we.
-
-🧪 Active Experiments
-txt
-Copy
-Edit
-[1] Validator Ops – Celestia / Avail / Dymension
-[2] MEV tests & RPC fuzzing – Ethereum L2s
-[3] Tokenless protocol analysis – Real yield or rug?
-[4] Node automation tools – Bash / Python scripting
-🧰 Operator Toolchain
-txt
-Copy
-Edit
-┌──────────────────────────────┐
-│  Rust 🦀   Go 🌀   Bash 🐚     │
-│  Solidity ⚙️   Python 🐍       │
-│  Docker 🐳   Linux 🐧         │
-│  VSCode 👨‍💻   RPC Tools 📡     │
-└──────────────────────────────┘
-🛰️ Signals & Feeds
-txt
-Copy
-Edit
-📡 Twitter  :  https://twitter.com/yourhandle
-🧾 Blog     :  https://medium.com/@yourblog
-🔐 Discord  :  https://discord.gg/yourinvite
-📊 Recon: GitHub Activity
+### 🧪 Active Experiments
+1. 🛰️ **Validator Ops** — Celestia / Avail / Dymension  
+2. ⚡ **MEV Tests & RPC Fuzzing** — Ethereum L2s  
+3. 🧠 **Tokenless Protocol Analysis** — Real Yield or Rug?  
+4. 🤖 **Node Automation Tools** — Bash / Python Scripting
+### 📊 Recon: 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TestnetProtocol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=TestnetProtocol&theme=tokyonight&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TestnetProtocol&label=access+logs&color=00ff00&style=flat-square" /> </p> ```
+<div style="background-color:#000000; padding:20px; border-radius:10px; display:inline-block;">
+<img src="https://ssr-contributions-svg.vercel.app/_/TestnetProtocol?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=500&theme=matrix&widget_size=large&colors=00FF00,39FF14,0AFF0A,33FF33,66FF66,99FF99,00CC00,228B22&dark=true">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=TestnetProtocol&label=access+logs&color=00ff00&style=flat-square" /> </p> 
